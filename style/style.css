@@ -68,7 +68,7 @@ body.dark-mode {
 
 .hero-section {
     /* background-image: url("https:source.unsplash.com/1600x900/?html"); */
-    background-image: url("../../Imagine/97110f4ecc090c63b38cf56eb8becf4a.jpg");
+    background-image: url("../img/97110f4ecc090c63b38cf56eb8becf4a.jpg");
     height: calc(100vh - 60px);
     display: flex;
     justify-content: center;
