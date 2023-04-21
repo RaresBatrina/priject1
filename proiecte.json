@@ -1,0 +1,22 @@
+{
+    "proiecte": [
+        {
+            "nume": "Memory Game",
+            "descriere": "Un memory game",
+            "img": "./img/memory.png",
+            "link": "./proiecte/memory game/index.html"
+        },     
+         {
+            "nume": "Alarma",
+            "descriere": "Alarma",
+            "img": "./img/poza alarma.png",
+            "link": "./proiecte/alarma clock/index.html"
+        },
+        {
+            "nume": "Math Game",
+            "descriere": "Math game",
+            "img": "./img/Math Game.png",
+            "link": "./proiecte/math game/index.html"
+        }
+    ]
+}
